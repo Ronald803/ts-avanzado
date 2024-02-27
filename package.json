@@ -14,6 +14,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@capacitor/camera": "^5.0.9"
+    "@capacitor/camera": "^5.0.9",
+    "@faker-js/faker": "^6.0.0-alpha.5"
   }
 }
